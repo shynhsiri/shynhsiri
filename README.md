@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shynhsiri
-- 👀 I don't know what am i interested in yet😑
-- 🌱 I’m currently learning PYTHON,HTML,CSS & DJANGO together 😅
-- 📫 You can reach on Ig,Telegram & Gmail by shynhsiri id  
+- 👀 I am interested in Backend Development
+- I’m currently learning DJANGO
+- 📫 You can reach me on Telegram & Gmail by shynhsiri id  
 
 <!---
 shynhsiri/shynhsiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
