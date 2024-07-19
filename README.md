@@ -2,7 +2,10 @@
 
 ###
 
-<h3 align="left">👩‍💻  I’m @shynhsiri<br>I am a junior Back-End Developer</h3>
+<h3 align="left">👩‍💻  I’m @shynhsiri<br>I am a junior Back-End Developer looking for a Intern position</h3>
+<h4 align="left">Currently learning DRF📖</h4>
+
+<br>
 
 ###
 
